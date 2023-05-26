@@ -1,0 +1,1 @@
+# Adaptive-Segmentation-and-Sequence-Learning-of-Human-Activities-using-LSTM
